@@ -1,1 +1,1 @@
-# React-django-blog is a full stack blog website
+# React-django-blog is a full stack blog website build using Django
