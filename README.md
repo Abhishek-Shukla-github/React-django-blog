@@ -1,1 +1,1 @@
-# React-django-blog app
+# React-django-blog app.
